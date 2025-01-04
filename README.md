@@ -2,15 +2,7 @@
 
 $10 / month college level education
 
-## Getting Started
+$10/month online university with curriculum custom designed to maximize learning for all different types of students. Each course, like Computer Science, will have 10 modules. Each module will have two 20 minute lectures, as well as whatever other learning materials that are needed. Then, there will be a homework assignment, which will be graded by real people. If you pass the homework, you have access to the next module. If you don't pass, you can try again.
 
-This project is a starting point for a Flutter application.
+This will also have a General Intelligence degree, which will be Math through Calc 1, History (USA and world), any science (bio, chem, physics), Art, and Psychology/Sociology.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
